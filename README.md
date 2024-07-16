@@ -1,3 +1,3 @@
-# LIVE : https://qodic-starwars-e3qn789hs-dilin-ams-projects.vercel.app/
+# LIVE : https://qodic-starwars.vercel.app/
 
 ### Loading screen , search, filter, pagination, card , modal , images 
